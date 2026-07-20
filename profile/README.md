@@ -1,6 +1,5 @@
 ## pythonbackport
 
-Python Backporting!!!
+Python [^1] Backporting!!!
 
-> [!NOTE]
-> This organization **is not** the official organization of Python.
+[^1]: This organization **is not** the official organization of Python.
