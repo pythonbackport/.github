@@ -1,6 +1,6 @@
 ## pythonbackport™
 
-Python [^1] Backporting!!!
+Python [^1] Backporting!!! [See us on Discord](https://discord.gg/kThZX7bfP)
 
 About the Trademark[^2]
 
